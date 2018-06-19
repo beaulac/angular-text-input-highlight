@@ -3,4 +3,7 @@
 node_modules/
 coverage/
 npm-debug.log
-dist/
+
+
+## Use without release.
+# dist/
